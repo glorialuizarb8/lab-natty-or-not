@@ -23,19 +23,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia é que o Avatar virtual mostrasse a qualidade das camisas que ele estava vestindo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Plataformas Morphix, My Hub IA, Flow, Pinterest e CapCut.
+IAs de vídeo e imagem: Seedance 2.5 e Nano Banana 2
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1- O primeiro passo foi criar o avatar virtual e para isso foi necessário:
+. Buscar uma imagem de referência no Pinterest.
+. Criar um prompt para esse avatar com um agente no My hub IA específico para isso.
+. Criar as imagens das diferentes dimensões do Avatar.
+
+2- O segundo passo foi:
+. Pegar as imagens de referência da camisa para usar como base no prompt
+. Com um agente de IA (My Hub IA) específico para a criação de cenas cinematográficas, criar um prompt detalhado para fazer o video.
+. E por fim subir o prompt com a imagem do Avatar criado e da camisa como base, para o vídeo.
+
+3- O último passo foi:
+. Editar o vídeo no CapCut.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo ficou muito bom e realista. A movimentação do avatar e o comportamento da roupa ficaram surreais e o cenário com o áudio ambiente ficou muito natural.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+E incrível o poder da IA e as possibilidades que ela nos traz mas temos que utilizar isso com muita responsabilidade.
 ```
 
 ### Exemplos e Insigths
